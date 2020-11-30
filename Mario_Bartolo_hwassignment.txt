@@ -1,0 +1,9 @@
+1, checks the packages installed on the given environment.
+2, deactivates the virtual environment
+3, activates the scrips in the environment
+4,installs django v 2.2.4
+5, lists the django versions, pytz, and sqlparse,
+6, returned back to my_enviroments and made a requirements.txt in the folder.
+7,uninstalled package "Django"
+8, package not found ( properly uninstalled Django)
+9, shows all the flask variables and versions to install. goes from 0.3.0 -> 0.1.2, shows all the possible packages to download.
