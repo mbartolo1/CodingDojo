@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 1px;
+}
+header{
+    background: lightgoldenrodyellow;
+    margin: 10px;
+    padding: 15px;
+}
+h1{
+    font-size: 24px;
+    margin: 10px;
+}
